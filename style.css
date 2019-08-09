@@ -1,0 +1,70 @@
+body {
+    background-color: #edeef2;
+}
+
+.title{
+    background: white;
+    width: 100%;
+    height: 70px;
+    position: relative;
+    bottom: 10px;
+    left:-10px;
+    margin: auto;
+    margin-bottom: 40px;
+}
+
+.title-text {
+    width: 500px;
+    font-size: 50px;
+    font-family: 'Fjalla One', sans-serif;
+    display: flex;
+    justify-content: center;
+    left: 60px;
+    margin: auto;
+
+}
+
+section {
+    width: 1000px;
+    margin: auto;
+}
+
+div { width: 400px;
+    height: 400px;
+    background: blue;
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+
+.cont1, .cont2, .cont3, .cont4{
+    position: relative;
+    left: 300px;
+    right: 300px;
+    background-color: white;
+
+}
+
+img {
+    width: 400px;
+    height: 250px;
+    position:relative;
+    top:80px;
+}
+
+.p1 {
+    position: relative;
+    bottom:250px;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.p2 {
+    font-size: 15px;
+    position: relative;
+    top:30px;
+}
+
+.lca {
+    position: relative;
+    top: 17px;
+}
